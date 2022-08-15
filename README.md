@@ -1,6 +1,8 @@
-#鲁虺在Web上工作的创作工具
+#鲁虺在线2d动画创作制作网
 
 http://next2d.luhui.net/
+
+鲁虺在Web上工作的创作工具next2d，这是一款运行在网页浏览器上的创作工具，主要用于NoCode开发，可以直观的制作出自己想象中的动画，导出的数据上传到网页即可轻松发布。
 
 Authoring tools that work on the web
 
